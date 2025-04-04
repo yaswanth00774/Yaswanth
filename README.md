@@ -94,7 +94,7 @@
 <body>
     <header><div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="yaswanth.jpg" alt="Your Profile Picture" class="profile-picture">
+            <img src="yaswanth(1).jpg" alt="Your Profile Picture" class="profile-picture">
             <h1>yaswanth k</h1>
             <p>Am BCA</p>
         </div>
